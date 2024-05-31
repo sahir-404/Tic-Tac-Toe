@@ -1,5 +1,8 @@
 This is A tic TAC Toe game built using HTML,CSS & JAVASCRIPT.
-![image](https://github.com/sahir-404/Tic-Tac-Toe/assets/169133443/6555e838-813f-467d-9d5e-a6f6bae73da7)
-![image](https://github.com/sahir-404/Tic-Tac-Toe/assets/169133443/64aaf965-f481-4cf0-a23d-cff3fad2d686)
+![image](https://github.com/sahir-404/Tic-Tac-Toe/assets/169133443/f18be629-1f12-401b-8edb-6fc81c96a9fc)
+![image](https://github.com/sahir-404/Tic-Tac-Toe/assets/169133443/8da2acfc-47b0-4ce4-95c2-7f84e036648f)
+
+
+
 
 
